@@ -48,7 +48,7 @@ function App() {
           </div>
           <header className="App-header">
             <p>
-              Welcome to Tennis Finance!
+              More stuff coming soon!
             </p>
           </header>
         </div>
